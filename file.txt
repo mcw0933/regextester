@@ -1,0 +1,12 @@
+
+      RULE                 DESCRIPTION             LINE NUMBER
+
+  maxbodylength   Target body for "new" exceeds    16
+                  allowed length of 5 (6).
+  minphony        Missing required phony target    0
+                  "all"
+  minphony        Missing required phony target    0
+                  "clean"
+  minphony        Missing required phony target    0
+                  "test"
+
